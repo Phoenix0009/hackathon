@@ -11,4 +11,4 @@ Is Umar with us??
 
 **I don't think so. But he is one of us**
 
-yolooo
+yolo

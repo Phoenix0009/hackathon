@@ -1,7 +1,7 @@
 # hackathon
 ## Hackathon 2018
-
-### Participants
+### Mohack // MLH
+#### Participants
 
 1. Nirmal Rampersand
 2. Jeremie Daniel
